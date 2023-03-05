@@ -1,0 +1,75 @@
+*{
+    color: white;
+}
+body{
+    background-image: url('phooo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 90%;
+}
+.inn{
+    position: relative;
+    left: 100px;
+    top: 50px;
+    border: 5px solid rgba(16, 4, 28, 0.346);
+    border-radius: 15px;
+    background-color: rgb(25, 3, 48);
+    width: 500px;
+    height: 450px;
+    padding: 15px;
+   
+}
+.sig{
+    width: 1700px;
+    position: fixed;
+    opacity: 60%;
+    top: -150px;
+    z-index: -3;
+}
+
+.regg{
+    font-size: 25px;
+    background-color: rgba(172, 172, 172, 0.61);
+    border: 2px solid rgba(255, 255, 255, 0);
+    border-radius: 5px;
+    padding: 15px 55px;
+    width: 450px;
+    height: 500px;
+    position: fixed;
+    top: 100px;
+    left: 500px;
+}
+
+.sss{
+    font-size: 20px;
+    color: black;
+    position: relative;
+    left: 200px;
+    top: 50px;
+    padding: 5px;
+    width: 150px;
+    height: 50px;
+}
+
+.txtt{
+    position: relative;
+    left: 15px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 3px;
+    opacity: 50%;
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    width: 400px;
+    background-color: rgb(244, 244, 244)
+}
+
+.yash{
+    font-size: 50px;
+    position: fixed;
+    left: 625px;
+    background-color: black;
+    height: 60px;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
